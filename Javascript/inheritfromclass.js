@@ -1,4 +1,4 @@
-const Rectangle = require('./classwithmoreinstance');
+const Square = require('./classwithmoreinstance');
 
 class Square extends Rectangle {
 	constructor (size) {
